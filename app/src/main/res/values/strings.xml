@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deejay Movies</string>
+
+    <string name="onesignal_id">46d7cc90-adcc-4753-8490-acd4b5ae97bc</string>
+
+    <string name="app_id">ca-app-pub-5637852467345271~9448468897</string>
+    <string name="banner_id">ca-app-pub-5637852467345271/3771979691</string>
+    <string name="initialize_id">ca-app-pub-5637852467345271/2267326330</string>
+</resources>

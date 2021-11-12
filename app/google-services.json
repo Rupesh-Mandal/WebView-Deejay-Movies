@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "819929068061",
+    "project_id": "dj-smith-movies",
+    "storage_bucket": "dj-smith-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819929068061:android:20400c8bab2604866f0cf4",
+        "android_client_info": {
+          "package_name": "com.deejay.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819929068061-7nqktgi7q7j2j6q20vq0leeqq2chspfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BGryObCxH7J5uuYLTnewEhkrPgYWgsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819929068061-7nqktgi7q7j2j6q20vq0leeqq2chspfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819929068061:android:9234fd38decc2ea96f0cf4",
+        "android_client_info": {
+          "package_name": "com.djsmithmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819929068061-7nqktgi7q7j2j6q20vq0leeqq2chspfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BGryObCxH7J5uuYLTnewEhkrPgYWgsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819929068061-7nqktgi7q7j2j6q20vq0leeqq2chspfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
